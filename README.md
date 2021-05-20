@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Patrick-706048
+- 👀 I’m interested in Electrical Engineering
+- 🌱 I’m currently learning C++
